@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Default/Icons">
+        <file>Res/FFSOFT-removebg-preview.png</file>
+        <file>Res/settings.svg</file>
+        <file>Res/search.svg</file>
+        <file>Res/close.svg</file>
+        <file>Res/arrow_right.svg</file>
+        <file>Res/read.svg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
